@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="nopcommerce_Suite" parallel="tests">
+	<test thread-count="115" name="Chrome_Test">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="opencart_io_testCases.TC_001_AccountRegistrationTest" />
+		</classes>
+	</test>
+			<!-- crossbrowser test 1. change browser, name of test -->
+	<test thread-count="115" name="Edge_Test">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="opencart_io_testCases.TC_001_AccountRegistrationTest" />
+		</classes>
+	</test> <!-- nopcommerce_Test -->
+	<!-- crossbrowser test 1. change browser, name of test -->
+	<test thread-count="115" name="Firefox_Test">
+		<parameter name="browser" value="Firefox"></parameter>
+		<classes>
+			<class name="opencart_io_testCases.TC_001_AccountRegistrationTest" />
+		</classes>
+	</test> <!-- nopcommerce_Test -->
+</suite> <!-- nopcommerce_Suite -->

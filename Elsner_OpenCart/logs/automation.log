@@ -1,0 +1,74 @@
+12:10:09.920 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:10:21.961 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:10:21.974 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:10:33.655 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:10:33.661 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:10:45.391 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:10:45.393 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:10:57.050 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:10:57.050 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:11:50.619 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:12:02.100 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:12:02.116 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:12:13.517 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:12:13.517 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:12:24.981 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:12:24.984 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:12:36.380 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:12:36.382 [main] INFO  opencart_io_testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:41:38.338 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+14:41:38.985 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:41:39.050 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+14:41:42.105 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:41:42.162 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+14:41:43.037 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Continue
+14:41:43.038 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Finish TC_001_AccountRegistrationTest ***
+14:41:46.251 [main] INFO  opencart_io_testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest********
+14:41:47.049 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on the Login Link
+14:41:47.052 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Providing Login Details
+14:41:47.932 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on Login Button
+14:44:21.410 [main] INFO  opencart_io_testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest********
+14:44:22.048 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on the Login Link
+14:44:22.054 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Providing Login Details
+14:44:22.836 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on Login Button
+19:18:12.677 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+19:18:13.369 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+19:18:13.433 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+19:18:15.174 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+19:18:15.209 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+19:18:15.682 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Continue
+19:18:15.683 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Finish TC_001_AccountRegistrationTest ***
+19:18:19.439 [main] INFO  opencart_io_testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest********
+19:18:20.972 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on the Login Link
+19:18:20.974 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Providing Login Details
+19:18:21.519 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on Login Button
+14:05:43.258 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+14:05:44.812 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:05:44.879 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+14:05:46.574 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:05:46.606 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+14:05:47.113 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Continue
+14:05:47.113 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Finish TC_001_AccountRegistrationTest ***
+14:05:49.903 [main] INFO  opencart_io_testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest********
+14:05:50.422 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on the Login Link
+14:05:50.430 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Providing Login Details
+14:05:51.013 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on Login Button
+14:08:00.073 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+14:08:00.819 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:08:00.908 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Providing Customer Data
+14:08:02.805 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+14:08:02.845 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+14:08:03.375 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Continue
+14:08:03.375 [main] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Finish TC_001_AccountRegistrationTest ***
+14:08:06.477 [main] INFO  opencart_io_testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest********
+14:08:07.986 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on the Login Link
+14:08:07.988 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Providing Login Details
+14:08:08.647 [main] INFO  opencart_io_testCases.TC_002_LoginTest - Cliked on Login Button
+12:16:26.172 [TestNG-tests-1] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+12:16:27.649 [TestNG-tests-2] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+12:16:27.653 [TestNG-tests-3] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+12:16:27.847 [TestNG-tests-1] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+12:16:28.175 [TestNG-tests-2] INFO  opencart_io_testCases.TC_001_AccountRegistrationTest - Click on the Registration
+12:16:28.201 [TestNG-tests-3] ERROR opencart_io_testCases.TC_001_AccountRegistrationTest - Test fail
+12:16:29.216 [TestNG-tests-2] ERROR opencart_io_testCases.TC_001_AccountRegistrationTest - Test fail
+12:16:29.216 [TestNG-tests-1] ERROR opencart_io_testCases.TC_001_AccountRegistrationTest - Test fail
